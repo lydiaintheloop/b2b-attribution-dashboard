@@ -7,6 +7,7 @@ No coding required. No server needed. Just open the HTML file in any modern brow
 > **Note:** Always verify dashboard outputs against your source data. AI-assisted calculations should be double-checked before using in budget decisions or stakeholder reports.
 
 ---
+![Attribution Dashboard](https://github.com/user-attachments/assets/8a3a75b7-a06f-46b1-a558-7395528986d4)
 
 ## What it does
 
