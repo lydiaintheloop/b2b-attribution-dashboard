@@ -1,6 +1,6 @@
 # B2B Multi-Touch Attribution Dashboard
 
-An interactive, self-contained HTML dashboard for analyzing which marketing channels generate leads, create pipeline, and close revenue — across multiple attribution models.
+An interactive, self-contained HTML dashboard for analyzing which marketing channels generate leads, create pipeline, and close revenue across multiple attribution models.
 
 No coding required. No server needed. Just open the HTML file in any modern browser.
 
